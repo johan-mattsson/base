@@ -1,0 +1,3 @@
+[submodule "models/sub1"]
+	path = models/sub1
+	url = https://github.com/johan-mattsson/sub1.git
